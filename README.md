@@ -4,6 +4,4 @@
 **lbrissette/lbrissette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Pronouns: she/her 
-Education: Northeastern University
-            Computer Science, Class of 2027
-            Honors Program
+
